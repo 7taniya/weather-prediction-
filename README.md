@@ -69,11 +69,3 @@ Please refer to the "final project file" for the clean and updated implementatio
 👉 Weather_Prediction_final.ipynb
 
 Older versions are retained only for reference.
-
-F1 score: 0.64
-
-Precision: 0.61
-
-Recall: 0.70
-
-Live prediction
